@@ -3,7 +3,7 @@
 ## Environments
 Mac OS X 10.9.5 on MacBook Pro
 
-## how to build
+## How to build
 ```
 $ make
 ```
